@@ -1,5 +1,6 @@
 function Counter() {
     let count = 0
+    // men sene funksiya verirem. Hemin funksiya ile deyis ki, mende render edim!
     return (
         <div>
             <h1>{count}</h1>
